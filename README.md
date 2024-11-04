@@ -1,5 +1,9 @@
 # Hello there; welcome 👋🏾
 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-yakub-alada) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Alada_jr)
+
+
 I'm a Backend Software Engineer passionate about API development, data management, and backend architecture. I enjoy sharing knowledge, collaborating on technical projects, and contributing to open-source communities. My work includes hands-on experience with Node.js, Express, MongoDB, Python (Django and Flask), and Docker. I showcase my projects on GitHub and contribute to creating helpful resources for developers.
 
 I'm dedicated to building impactful solutions and connecting with like-minded professionals to advance my skills and give back to the tech community.
@@ -15,5 +19,6 @@ I'm dedicated to building impactful solutions and connecting with like-minded pr
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aladaabdul&show_icons=true&include_all_commits=true&hide_border=true" alt="Alada's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aladaabdul&langs_count=8&layout=compact&hide_border=true" alt="Alada's top languages" /> |
+| ![Alada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aladaabdul&show_icons=true&include_all_commits=true&hide_border=true) | ![Alada's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aladaabdul&langs_count=8&layout=compact&hide_border=true) |
 | ------------- | ------------- |
+
