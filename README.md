@@ -15,5 +15,5 @@ I'm dedicated to building impactful solutions and connecting with like-minded pr
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aladaabdul&show_icons=true&include_all_commits=true&hide_border=true" alt="Alada GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aladaabdul&langs_count=8&layout=compact&hide_border=true" alt="Alada GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aladaabdul&show_icons=true&include_all_commits=true&hide_border=true" alt="Alada's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aladaabdul&langs_count=8&layout=compact&hide_border=true" alt="Alada's top languages" /> |
 | ------------- | ------------- |
