@@ -16,7 +16,7 @@ I'm dedicated to building impactful solutions and connecting with like-minded pr
 - 💡 Fun fact:  I'm a graduate of Computer Engineering and completed the ALX Africa Software Engineering program.
 - 🌱 I’m currently building with JavaScript and Python.
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Backend Software Engineer (Intern or Junior level).
+- 💼 Job interests: Backend Software Engineer (Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing aladarahman18@gmail.com.
 
 ---
