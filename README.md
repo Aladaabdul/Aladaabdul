@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Alada_jr)
 
 
-I'm a Backend Software Engineer passionate about API development, data management, and backend architecture. I enjoy sharing knowledge, collaborating on technical projects, and contributing to open-source communities. My work includes hands-on experience with Node.js, Express, MongoDB, Python (Django and Flask), and Docker. I showcase my projects on GitHub and contribute to creating helpful resources for developers.
+I'm a Backend Software Engineer passionate about API development, data management, and backend architecture. I enjoy sharing knowledge, collaborating on technical projects, and contributing to open-source communities. My work includes hands-on experience with Node.js, Express, MongoDB, SQL, Python (Django, FastAPI, and Flask), and Docker. I showcase my projects on GitHub and contribute to creating helpful resources for developers.
 
 I'm dedicated to building impactful solutions and connecting with like-minded professionals to advance my skills and give back to the tech community.
 
@@ -15,7 +15,7 @@ I'm dedicated to building impactful solutions and connecting with like-minded pr
 - 😊 Pronouns: He/him
 - 💡 Fun fact:  I'm a graduate of Computer Engineering and completed the ALX Africa Software Engineering program.
 - 🌱 I’m currently building with JavaScript and Python.
-- 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I’m looking for help with open-source projects, hackathons, and junior-level opportunities.
 - 💼 Job interests: Backend Software Engineer (Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing aladarahman18@gmail.com.
 
