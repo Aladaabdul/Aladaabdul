@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Alada_jr)
 
 
-I'm a Backend Software Engineer passionate about API development, data management, and backend architecture. I enjoy sharing knowledge, collaborating on technical projects, and contributing to open-source communities. My work includes hands-on experience with Node.js, Express, SQL, NoSQL, Python (Django, FastAPI, and Flask), and Docker. I showcase my projects on GitHub and contribute to creating helpful resources for developers.
+I'm a Backend Software Engineer passionate about API development, data management, and backend architecture. I enjoy sharing knowledge, collaborating on technical projects, and contributing to open-source communities. My work includes hands-on experience with Python (Django, FastAPI, and Flask), Node.js, SQL, NoSQL and Docker. I showcase my projects on GitHub and contribute to creating helpful resources for developers.
 
 I'm dedicated to building impactful solutions and connecting with like-minded professionals to advance my skills and give back to the tech community.
 
