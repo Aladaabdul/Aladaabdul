@@ -6,18 +6,39 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Alada_jr)
 
 
-I'm a Backend Software Engineer passionate about API development, data management, and backend architecture. I enjoy sharing knowledge, collaborating on technical projects, and contributing to open-source communities. My work includes hands-on experience with Python (Django, FastAPI, and Flask), Node.js, SQL, NoSQL and Docker. I showcase my projects on GitHub and contribute to creating helpful resources for developers.
+I’m a Software Engineer specializing in API development, data management, and scalable backend architecture. I enjoy solving complex technical problems, collaborating with teams, and contributing to open-source communities.
 
-I'm dedicated to building impactful solutions and connecting with like-minded professionals to advance my skills and give back to the tech community.
+My expertise includes building backend systems with Python (Django, FastAPI, Flask) and JavaScript/TypeScript (Node.js, Express), working with SQL and NoSQL databases, and deploying applications with Docker and cloud platform (AWS). I also leverage CI/CD pipelines (GitHub Actions, Docker Hub, Terraform) as part of cloud engineering practices to enable optimized software delivery.
 
-**Here's a quick summary about me**:
+I explore the intersection of software engineering and AI, leveraging foundational models (LLMs) to build applications such as chatbots, automation tools, and retrieval-augmented generation (RAG) systems that integrate seamlessly with modern backend services.
 
-- 😊 Pronouns: He/him
-- 💡 Fun fact:  I'm a graduate of Computer Engineering and completed the ALX Africa Software Engineering program.
-- 🌱 I’m currently building with JavaScript and Python.
-- 😊 I’m looking for help with open-source projects, hackathons, and backend engineer opportunities.
-- 💼 Job interests: Backend Software Engineer.
-- 📫 You can [view my resume](#) and contact me by emailing aladarahman18@gmail.com.
+I actively showcase my projects on GitHub, contribute to developer resources, and am committed to building impactful solutions that benefit both businesses and the tech community.
+
+Quick Highlights
+
+😊 Pronouns: He/him
+
+🎓 Background: B.eng. in Computer Engineering, ALX Africa Software Engineering graduate
+
+🛠️ Tools & Technologies:
+
+Languages & Frameworks: Python (Django, FastAPI, Flask), JavaScript/TypeScript (Node.js, Express)
+
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+
+DevOps & Cloud Engineering: Docker, AWS, Azure, GitHub Actions, CI/CD pipelines, Terraform
+
+AI/ML: Large Language Models (LLMs), Hugging Face, LangChain, OpenAI API, Retrieval-Augmented Generation (RAG)
+
+Others: REST APIs, GraphQL, WebSockets, Git/GitHub, Celery
+
+🤖 AI Experience: Applying LLMs for application development, including RAG pipelines, intelligent APIs, and automation tools
+
+🌱 Exploring: Microservices, system design, DevOps and cloud practices
+
+🤝 Looking to collaborate on: Open-source projects, hackathons, and backend + AI-driven applications
+
+💼 Job interests: Backend Software Engineer, Cloud/DevOps Engineer, AI/ML Engineer (Backend focus)
 
 ---
 
