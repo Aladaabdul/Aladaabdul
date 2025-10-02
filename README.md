@@ -6,13 +6,13 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Alada_jr)
 
 
-I’m a Software Engineer specializing in API development, data management, and scalable backend architecture. I enjoy solving complex technical problems, collaborating with teams, and contributing to open-source communities.
+I’m a Software Engineer specializing in backend systems, data management, and scalable architectures. I enjoy solving complex technical problems, collaborating across teams, and contributing to open-source communities.
 
-My expertise includes building backend systems with Python (Django, FastAPI, Flask) and JavaScript/TypeScript (Node.js, Express), working with SQL and NoSQL databases, and deploying applications with Docker and cloud platform (AWS). I also leverage CI/CD pipelines (GitHub Actions, Docker Hub, Terraform) as part of cloud engineering practices to enable optimized software delivery.
+My expertise spans Python (Django, FastAPI, Flask) and JavaScript/TypeScript (Node.js, Express), with strong experience in SQL and NoSQL databases. I deploy and manage applications using Docker, AWS, and cloud-native tools, and I integrate CI/CD pipelines (GitHub Actions, Docker Hub, Terraform) to optimize software delivery.
 
-I explore the intersection of software engineering and AI, leveraging foundational models (LLMs) to build applications such as chatbots, automation tools, and retrieval-augmented generation (RAG) systems that integrate seamlessly with modern backend services.
+I also explore the intersection of software engineering and AI, leveraging large language models (LLMs) to build chatbots, automation tools, and retrieval-augmented generation (RAG) systems that integrate seamlessly with backend services.
 
-I actively showcase my projects on GitHub, contribute to developer resources, and am committed to building impactful solutions that benefit both businesses and the tech community.
+I actively showcase projects on GitHub, contribute to developer resources, and am committed to building impactful solutions for businesses and the broader tech community.
 
 Quick Highlights
 
@@ -26,7 +26,7 @@ Languages & Frameworks: Python (Django, FastAPI, Flask), JavaScript/TypeScript (
 
 Databases: PostgreSQL, MySQL, MongoDB, Redis
 
-DevOps & Cloud Engineering: Docker, AWS, Azure, GitHub Actions, CI/CD pipelines, Terraform
+DevOps & Cloud Engineering: Docker, AWS, Azure, Vercel GitHub Actions, Terraform, CI/CD pipelines
 
 AI/ML: Large Language Models (LLMs), Hugging Face, LangChain, OpenAI API, Retrieval-Augmented Generation (RAG)
 
@@ -34,7 +34,7 @@ Others: REST APIs, GraphQL, WebSockets, Git/GitHub, Celery
 
 🤖 AI Experience: Applying LLMs for application development, including RAG pipelines, intelligent APIs, and automation tools
 
-🌱 Exploring: Microservices, system design, DevOps and cloud practices
+🌱 Exploring: Microservices, system design, DevOps/cloud practices
 
 🤝 Looking to collaborate on: Open-source projects, hackathons, and backend + AI-driven applications
 
