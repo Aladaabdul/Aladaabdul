@@ -26,7 +26,7 @@ Languages & Frameworks: Python (Django, FastAPI, Flask), JavaScript/TypeScript (
 
 Databases: PostgreSQL, MySQL, MongoDB, Redis
 
-DevOps & Cloud Engineering: Docker, AWS, Azure, Vercel GitHub Actions, Terraform, CI/CD pipelines
+DevOps & Cloud Engineering: Docker, AWS, Azure, Vercel, GitHub Actions, Terraform, CI/CD pipelines
 
 AI/ML: Large Language Models (LLMs), Hugging Face, LangChain, OpenAI API, Retrieval-Augmented Generation (RAG)
 
