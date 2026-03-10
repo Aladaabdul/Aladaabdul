@@ -55,14 +55,6 @@
 
 ---
 
-## AI Engineering
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
-
----
-
 # 🚀 Engineering Interests
 
 - Distributed systems  
