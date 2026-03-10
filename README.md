@@ -63,16 +63,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aladaabdul&show_icons=true&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aladaabdul&theme=github-dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aladaabdul&layout=compact&theme=github_dark)
-
----
-
 # 🚀 Engineering Interests
 
 - Distributed systems  
