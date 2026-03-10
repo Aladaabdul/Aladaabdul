@@ -65,11 +65,11 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yakub-Abdulrahman-Alada&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aladaabdul&show_icons=true&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Yakub-Abdulrahman-Alada&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Aladaabdul&theme=github-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakub-Abdulrahman-Alada&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aladaabdul&layout=compact&theme=github_dark)
 
 ---
 
